@@ -1,0 +1,15 @@
+{
+  "SwaggerEndPoints": [
+    {
+      "Key": "restaurants",
+      "TransformByOcelotConfig": true,
+      "Config": [
+        {
+          "Name": "Restaurants.API",
+          "Version": "1.0",
+          "Url": "https://localhost:7194/swagger/v1/swagger.json"
+        }
+      ]
+    }
+  ]
+}
